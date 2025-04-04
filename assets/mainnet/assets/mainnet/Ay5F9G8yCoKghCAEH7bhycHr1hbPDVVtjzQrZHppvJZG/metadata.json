@@ -1,0 +1,13 @@
+{
+  "name": "NUTZY",
+  "symbol": "NUTZY",
+  "address": "Ay5F9G8yCoKghCAEH7bhycHr1hbPDVVtjzQrZHppvJZG",
+  "decimals": 9,
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/nutzydev/nutzyclub-assets/main/assets/mainnet/Ay5F9G8yCoKghCAEH7bhycHr1hbPDVVtjzQrZHppvJZG/logo.png",
+  "tags": ["meme", "solana", "community"],
+  "extensions": {
+    "website": "https://nutzy.club",
+    "description": "Golden-ratio squirrel memecoin built on Solana"
+  }
+}
